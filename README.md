@@ -1,24 +1,18 @@
-# calendar-app
+# CloudManLabs Technical Assessment
 
-## Project setup
+## Project Setup
+
+<br/>
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+<br/>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## The project
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
